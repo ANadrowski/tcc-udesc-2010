@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+<TITLE>PALAVRA</TITLE>
+</HEAD>
+<BODY>
+
+PALAVRA!
+
+</BODY>
+</HTML>
